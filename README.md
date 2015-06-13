@@ -1,4 +1,4 @@
-# Instructions - Testing Websites with Heroku
+# heroku-template Instructions
 
 This repo contains the files needed to test my websites locally and online. To begin:
 
@@ -19,4 +19,4 @@ This repo contains the files needed to test my websites locally and online. To b
 
 1. Run `heroku create [APP-NAME]` to put the app on heroku
 2. Run `git push heroku`
-3. Navigate to https://app-name.herokuapp.com/
+3. Navigate to app-name.herokuapp.com
