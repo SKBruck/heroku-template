@@ -1,0 +1,21 @@
+{
+  "name": "heroku-template",
+  "version": "1.0.0",
+  "description": "a test description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKBruck/heroku-template.git"
+  },
+  "author": "SKBruck",
+  "bugs": {
+    "url": "https://github.com/SKBruck/heroku-template/issues"
+  },
+  "homepage": "https://github.com/SKBruck/heroku-template#readme",
+  "engines": {
+    "node": "0.12.x"
+  }
+}
