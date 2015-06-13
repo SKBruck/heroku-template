@@ -17,5 +17,8 @@
   "homepage": "https://github.com/SKBruck/heroku-template#readme",
   "engines": {
     "node": "0.12.x"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
   }
 }
